@@ -1,1 +1,1 @@
-print("Hello world nak;")
+print("Hello world nak;")/xfd;lhkb';rtlcgf,njf'
