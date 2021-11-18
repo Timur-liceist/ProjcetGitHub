@@ -1,1 +1,1 @@
-print("Hello world ffgcjgvhknak;")/xfd;lhkb';rtlcgf,njf'
+print("It`s great!")
