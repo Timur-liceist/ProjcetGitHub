@@ -1,1 +1,1 @@
-print("Hello world nak;sojrg")
+print("Hello world nak;")
